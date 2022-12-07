@@ -1,0 +1,4 @@
+/// TODOO
+
+Zavrsiti createGame
+Zavrsiti responsive
