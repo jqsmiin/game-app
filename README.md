@@ -40,9 +40,9 @@ Project is created with :
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Primary Color | ![0443F2](https://via.placeholder.com/10/0443F2?text=+) #0443F2 |
-| Secondary Color | ![#292828](https://via.placeholder.com/10/292828?text=+) #292828 |
-| Background Color | ![#060325](https://via.placeholder.com/10/060325?text=+) #060325 |
-| Malibu Color | ![#53CBFB](https://via.placeholder.com/10/53CBFB?text=+) #53CBFB |
-| Alto Color | ![#CFCFCF](https://via.placeholder.com/10/CFCFCF?text=+) #CFCFCF |
+| Primary Color |  #0443F2 |
+| Secondary Color |  #292828 |
+| Background Color |  #060325 |
+| Malibu Color |  #53CBFB |
+| Alto Color |  #CFCFCF |
 
